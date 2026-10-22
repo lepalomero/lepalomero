@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Letícia Palomero
+
+Applied and Computacional Mathematic at UNICAMP 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
 
 <!--
 **lepalomero/lepalomero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
